@@ -1,6 +1,6 @@
 
 
-def print_fun():
+def print_gogo():
     """
         prints and returns 'gogo gadget'
     """
