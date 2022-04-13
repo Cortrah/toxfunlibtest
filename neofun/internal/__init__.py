@@ -1,1 +1,2 @@
+print("neofun.internal loaded")
 
